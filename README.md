@@ -5,13 +5,13 @@
 
 ### Welcome to my GitHub 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-John%20Chang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/john-chang-55a784113/)
+![Linkedin Badge](https://img.shields.io/badge/-John%20Chang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/john-chang-55a784113/)
 [![GitHub followers](https://img.shields.io/github/followers/JohnChangUK?label=Follow&style=social)](https://github.com/JohnChangUK/?tab=follow)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JohnChangUK)](https://github.com/JohnChangUK)
 <div>
  
 <p>
-Experienced software engineer with expertise in building applications on the JVM. I have architected and developed performant and robust microservices, consisting of writing clean and well tested code. Furthermore, I enjoy building scalable and distributed systems, accompanied by hosting on cloud providers whilst analysing the economic trade offs. CQRS and event driven architecture are topics I delved into, in combination with patterns designed for resiliency, (Circuit breakers) etc.
+Experienced software engineer with expertise in building applications on the JVM. I have architected and developed performant and robust microservices, consisting of writing clean and well tested code. I enjoy building scalable and distributed systems on cloud platforms and often contemplate the longevity and economic trade offs of a project. Data science, CQRS and event driven architecture are topics I delve into my spare time, as well as patterns designed for resiliency, (Circuit breakers) etc.
 </h4>
 </div>
 <br />
@@ -19,13 +19,27 @@ Experienced software engineer with expertise in building applications on the JVM
 
 ### Tech Stack
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<br/><br/>
+
 
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=JohnChangUK&show_icons=true)
 <br />
