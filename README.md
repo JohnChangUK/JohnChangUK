@@ -5,7 +5,7 @@
 
 ### Welcome to my GitHub 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-John%20Chang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/john-chang-55a784113/)
+[![Linkedin Badge](https://img.shields.io/badge/-John%20Chang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/john-chang-55a784113/)](https://www.linkedin.com/in/john-chang-55a784113/)
 [![GitHub followers](https://img.shields.io/github/followers/JohnChangUK?label=Follow&style=social)](https://github.com/JohnChangUK/?tab=follow)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JohnChangUK)](https://github.com/JohnChangUK)
 <div>
