@@ -11,7 +11,7 @@
 <div>
  
 <p>
-Experienced software engineer with expertise in building applications on the JVM. I have architected and developed performant and robust microservices, consisting of writing clean and well tested code. I enjoy building scalable and distributed systems on cloud platforms and often contemplate the longevity and economic trade offs of a project. Data science, CQRS and event driven architecture are topics I delve into my spare time, as well as patterns designed for resiliency, (Circuit breakers) etc.
+Experienced software engineer with expertise in building applications on the JVM. I have architected and developed performant software, comprising of maintainable and robust engineering principles. I enjoy building scalable and distributed systems and often contemplate the longevity and economic trade offs of a project. Data science, site reliability engineering and CQRS are topics I delve into my spare time, as well as innovative engineering design constructs.
 </h4>
 </div>
 <br />
