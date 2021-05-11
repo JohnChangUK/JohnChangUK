@@ -11,7 +11,7 @@
 <div>
  
 <p>
-Experienced software engineer with expertise in building applications on the JVM. I have architected and developed performant software, comprising of maintainable and robust engineering principles. I enjoy building scalable and distributed systems and often contemplate the longevity and economic trade offs of a project. Data science, site reliability engineering and CQRS are topics I delve into my spare time, as well as innovative engineering design constructs.
+Software engineer at Amazon with expertise in building applications on the JVM. I have architected and developed performant software, comprising of maintainable and robust engineering principles. I enjoy building scalable and distributed systems and often contemplate the longevity and economic trade offs of a project. Data science, site reliability engineering and CQRS are topics I delve into my spare time, as well as innovative engineering design constructs.
 </h4>
 </div>
 <br />
